@@ -58,6 +58,10 @@
     align-items: center;
     padding: 10px 0;
   }
+
+  li input{
+    flex: 1;
+  }
   
   li p {
     flex: 1;

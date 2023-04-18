@@ -77,5 +77,6 @@
   }
   
   li .todo.done {
-    background: #333;
+    background: #1eaa17;
+    border: 2px solid #1eaa17;
   }
